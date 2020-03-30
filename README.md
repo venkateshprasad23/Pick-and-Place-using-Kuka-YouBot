@@ -11,11 +11,11 @@ The simulation was done on the V-REP Simulation Platform, while all the programm
 
 ### Code Organisation
 ```
-main.m                   - Pretty self-explanatory.
-calcJac.m                - Calculates the Jacobian of the end-effector and returns its pseudo-inverse.
-next_state.m             - Implements odometry calculation.
-reference_trajectory.m   - Implements a Screw Trajectory Generator to produce the reference trajectory.
-feedbackcontrol.m        - Calculates the robot's commanded twist.
+main.m                   -- Pretty self-explanatory.
+calcJac.m                -- Calculates the Jacobian of the end-effector and returns its pseudo-inverse.
+next_state.m             -- Implements odometry calculation.
+reference_trajectory.m   -- Implements a Screw Trajectory Generator to produce the reference trajectory.
+feedbackcontrol.m        -- Calculates the robot's commanded twist.
 ```
 
 
