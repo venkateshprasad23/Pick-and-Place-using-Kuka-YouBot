@@ -18,7 +18,8 @@ reference_trajectory.m   -- Implements a Screw Trajectory Generator to produce t
 feedbackcontrol.m        -- Calculates the robot's commanded twist.
 ```
 
-
+### Demo
+![](/Results/demo.gif)
 
 
 
